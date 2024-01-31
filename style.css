@@ -9,6 +9,7 @@ body {
 }
 
 div.chat-container {
+    overflow: scroll;
     position: absolute;
     background-color: #FFFFFF;
     width: calc(100% - 5vh);
